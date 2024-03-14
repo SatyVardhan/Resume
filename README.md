@@ -10,7 +10,7 @@ I am a web-developer with a passion for building scalable web apps With 2 years 
 
 ## Resume
 
-You can view and download my resume 
+You can view and download my resume https://github.com/SatyVardhan/Resume.git
 
 ## Projects
 Build dynamic websites using javascript dom manipulations
